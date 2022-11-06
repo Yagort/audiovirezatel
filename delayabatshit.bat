@@ -1,0 +1,1 @@
+pyuic6 -x B:\piton\Vse_projecti\audiovirezatel\krasava.ui -o B:\piton\Vse_projecti\audiovirezatel\krasava.py
